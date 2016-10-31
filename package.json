@@ -1,0 +1,15 @@
+{
+  "name": "esprima-tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "dependencies": {
+    "esprima": "^3.1.0",
+    "estraverse": "^4.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
